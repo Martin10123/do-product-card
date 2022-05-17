@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente ProductTitle Debe de mostrar el componente con el titulo del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    coffee - muggi sin imagen
+  </span>
+</div>
+`;
+
+exports[`Pruebas en el componente ProductTitle Debe de mostrar el componente correctamente con el titulo personalizado 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Hola bro
+</span>
+`;
